@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Iceberg
+  - Echo
+  - Fish
+  - Block
+  - Child
+  - DiedBlugaText
+  - LastText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - IceBerg
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2373915211
+    locked: 0
+  - name: Iceberg
+    uniqueID: 1476492861
+    locked: 0
+  - name: LabyrinthPath
+    uniqueID: 3730900623
+    locked: 0
+  - name: Player
+    uniqueID: 3086256009
+    locked: 0
+  - name: ForeGround
+    uniqueID: 407536403
+    locked: 0
