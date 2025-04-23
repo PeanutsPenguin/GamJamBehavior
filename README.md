@@ -8,9 +8,7 @@ Here's my participation with some friends, hope you will appreciate it !
 [![BeluGame Trailer](http://img.youtube.com/vi/Nz1SAFwD9zk/0.jpg)](https://youtu.be/Nz1SAFwD9zk)
 
 ## Links
-**ITCH.IO** page
-
-[BeluGame](https://el-penguin.itch.io/belugame)
+[**ITCH.IO** page](https://el-penguin.itch.io/belugame)
 
 **Lou Sadoine**, 3D Artist
 
