@@ -1,13 +1,11 @@
-# 
-
-Behaviour GameJam : Belugang
+# Behaviour GameJam : Belugang
 
 The studio Behaviour Intercative organized a GamJam during the week-end of 11/12/13 april 2025, the theme was "**If you don't see it, it doesn'exist**".
 Here's my participation with some friends, hope you will appreciate it !
 
 ## Trailer
 
-
+[![BeluGame Trailer](https://youtu.be/Nz1SAFwD9zk/0.jpg)](https://youtu.be/Nz1SAFwD9zk)
 
 ## Links
 **ITCH.IO** page
